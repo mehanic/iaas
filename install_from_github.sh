@@ -21,3 +21,5 @@ sudo nano /etc/hosts
 #we login again in terminal
 cd opendax
 rake service:all
+
+#I prepared a little new steps for installing suitable tools for now
